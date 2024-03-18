@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to right ,white,rgb(186, 232, 254),white);
+}
+.img5{
+    width:8cm;
+    height:9cm;
+    border-radius:10%;
+    }
+.engineering{
+    position:absolute;
+    margin-top:1cm;
+    margin-left:1.5cm;
+    width:8cm;
+    height:9cm;
+    background:rgb(248, 248, 250);
+    border-radius:10%;
+    border:1px  solid rgb(255, 255, 255);
+    box-shadow:0px 7px 5px 5px rgb(0, 0, 0);
+}
+.engin{
+    margin-top:2.5cm;
+    position:absolute;
+    font-size:1.2cm;
+    color:rgb(255, 255, 255);
+    font-weight:600;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow:6px 3px 4px  rgb(0, 0, 0);
+    
+}
+.arts{
+        position:absolute;
+        margin-top:1cm;
+        margin-left:11cm;
+        width:8cm;
+        height:9cm;
+        background:white;
+        border-radius:10%;
+        border:1px solid rgb(252, 252, 252);
+        box-shadow:0px 7px 5px 5px black;
+}
+.medical{
+        position:absolute;
+        margin-top:1cm;
+        margin-left:20.5cm;
+        width:8cm;
+        height:9cm;
+        background:white;
+        border-radius:10%;
+        border:1px solid rgb(252, 252, 252);
+        box-shadow:0px 7px 5px 5px black;
+
+}
+.collegepara{
+    height: 10cm;
+    width:92%;
+    background:rgb(255, 255, 255);
+    border:10px solid rgb(211, 254, 255);
+    margin-top:12cm;
+    margin-left:4%;
+    border-radius:6%
+}
+.engineering:hover{
+    transform:scale(1.1,1.1);
+    border:2px solid rgb(3, 3, 3);
+    box-shadow:0px 7px 5px 5px rgb(1, 9, 249);
+}
+.medical:hover{
+    transform:scale(1.1,1.1);
+    border:2px solid rgb(3, 3, 3);
+    box-shadow:0px 7px 5px 5px rgb(1, 9, 249);
+}
+.arts:hover{
+    transform:scale(1.1,1.1);
+    border:2px solid rgb(3, 3, 3);
+    box-shadow:0px 7px 5px 5px rgb(1, 9, 249);
+}

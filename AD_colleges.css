@@ -1,0 +1,133 @@
+body{
+    background:linear-gradient(rgb(227, 246, 255),rgb(228, 216, 249));
+}
+
+.header{
+    width:25.1cm;
+    height:2.3cm;
+    margin-top:-30px;
+    margin-left:-9px;
+    background-color: rgb(57, 3, 235);
+}
+.header p{
+    margin-left:9cm;
+    margin-top:1cm;
+   position:absolute;
+   font-size:35px;
+   font-weight:bold;
+   color:white;
+}
+
+.AD_engin{
+    margin-top:8px;
+    height:6cm;
+    border-radius:10px;
+    font-size:1.5cm;
+    font-weight:bold;
+    background:white;
+}
+.AD_engin pre{
+    left:1cm;
+    margin-top:1cm;
+    position:absolute;
+}
+.alter1{
+    position:absolute;
+    margin-left:20cm;
+    }
+
+.AD_arts{
+    margin-top:8px;
+    height:6cm;
+    border-radius:10px;
+    font-size:1.5cm;
+    font-weight:bold;
+    background:white;
+}
+.AD_arts pre{
+    left:1cm;
+    margin-top:1cm;
+    position:absolute;
+}
+.alter2{
+    position:absolute;
+    margin-left:20cm;
+    }
+
+.AD_medi{
+    margin-top:8px;
+    height:6cm;
+    border-radius:10px;
+    font-size:1.5cm;
+    font-weight:bold;
+    background: white;
+}
+.AD_medi pre{
+    left:1cm;
+    margin-top:1cm;
+    position:absolute;
+}
+.alter3{
+    position:absolute;
+    margin-left:20cm;
+    }
+    .add{
+    height:0.8cm;
+    width:2.5cm;
+    background:rgb(7, 224, 3);
+    font-weight:bold;
+    font-size:20px;
+}
+.view{
+    margin-top:0.5cm;
+    height:0.8cm;
+    width:2.5cm;
+    background:rgb(129, 73, 249);
+    font-weight:bold;
+    font-size:20px;
+}
+.delete{
+    height:0.8cm;
+    width:2.5cm;
+    background:red;
+    font-weight:bold;
+    font-size:20px;
+    }
+
+
+.add{
+    height:0.8cm;
+    width:2.5cm;
+    border:none;
+    border-radius: 5px;
+    font-size:20px;
+    font-weight:bold;
+    color:black;
+    background:linear-gradient(to left,rgb(24, 250, 3),rgb(0, 204, 255));
+    font-weight:bold;
+    font-size:20px;
+}
+.view{
+    height:0.8cm;
+    width:2.5cm;
+    border:none;
+    border-radius: 5px;
+    font-size:20px;
+    font-weight:bold;
+    color:black;
+    background:linear-gradient(to left,rgb(131, 3, 250),rgb(238, 0, 255));
+    font-weight:bold;
+    font-size:20px;
+}
+.delete{
+    height:0.8cm;
+    width:2.5cm;
+    border:none;
+    border-radius: 5px;
+    font-size:20px;
+    font-weight:bold;
+    color:black;
+    background:linear-gradient(to left,rgb(250, 44, 3),rgb(255, 247, 0));
+    font-weight:bold;
+    font-size:20px;
+    }

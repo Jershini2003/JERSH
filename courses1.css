@@ -1,0 +1,22 @@
+.row-container1 .application-list {
+    text-align:justify;
+    list-style:square;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row-container1 .application-list li {
+   
+    margin-bottom: 5px;
+    text-indent: -1em;
+    padding-left: 1em;
+  }
+  .row-container0{
+    margin-left:-25px;
+     padding:15px;
+    display: inline-block;
+    margin-top: 10px;
+    background:linear-gradient(to left,rgb(201, 176, 251),rgb(177, 251, 186));
+    text-align:justify;
+  
+  }

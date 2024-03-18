@@ -1,0 +1,120 @@
+body{
+    background:linear-gradient(to left,rgb(220, 185, 253),rgb(175, 175, 255));
+}
+.welcome{
+    width:30.51cm;;
+    height:2.3cm;
+    margin-top:-30px;
+    margin-left:-9px;
+    background-color: rgb(57, 3, 235);
+    
+}
+.welcome p{
+    position:absolute;
+    color:rgb(255, 255, 255);
+    margin-top:.8cm;
+    font-size:1cm;
+    font-weight:bold;
+    margin-left:8cm;
+}
+ 
+.colleges{
+    width:23cm;
+    height:10cm;
+    background:linear-gradient(to left,rgb(225, 249, 213),rgb(190, 242, 255));
+    position:absolute;
+    margin-top:10px;
+    margin-left:0.8cm;
+    border-radius:5px;
+}
+.colleges p{
+    text-align:center;
+    color:black;
+    font-size:0.8cm;
+    font-weight:bold
+}
+
+
+ 
+.url{
+    margin-left:10px;
+    font-weight:bold;
+    color:rgb(73, 73, 73);
+   
+}
+.title{
+    margin-left:10px;
+    font-weight:bold;
+    color:rgb(73, 73, 73);
+}
+.image{
+    margin-left:10px;
+    font-weight:bold;
+    color:rgb(73, 73, 73);
+
+ }
+ .address{
+    font-weight:bold;
+    color:rgb(73, 73, 73);
+    margin-left:10px;
+    position:absolute;
+ }
+
+
+.link_url{
+    border:none;
+     width:20cm;
+     height:25px;
+     margin-left:47px;
+     border-radius: 4px;
+     font-size:15px;
+}
+.link_url:hover{
+     border:2px solid green;
+}
+
+.link_title{
+    font-size:15px;
+    height:25px;
+    width:20cm;
+    margin-left:35px;
+    border:none;
+    border-radius: 4px;
+}
+.link_title:hover{
+    border:2px solid green;
+}
+.link_image{
+    font-size:15px;
+    height:25px;
+    width:20cm;
+    margin-left:35px;
+     }
+ 
+textarea {
+    margin-left:100px;
+    width: 20cm;
+    height: 2cm;
+    font-size: 15px;
+    border:none;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  textarea:hover{
+    border:2px solid green;
+  }
+  .submit{
+    border:none;
+    border-radius: 5px;
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+    margin-left:11cm;
+    height:0.8cm;
+    width:3cm;
+    background:linear-gradient(to left,rgb(131, 3, 250),blue);
+  }
+  .submit:hover{
+    background:linear-gradient(to left,rgb(24, 250, 3),rgb(0, 204, 255));
+    color:black;
+  }

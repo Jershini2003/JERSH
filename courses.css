@@ -1,0 +1,114 @@
+ body{
+  background:linear-gradient(to left,rgb(220, 253, 255),rgb(250, 216, 246));
+ }
+ .courses1{
+    width:30cm;
+    position:absolute;
+ }
+ .button1{
+    margin-left:3cm;
+    margin-top:8.8cm;
+    position:absolute;
+    background:linear-gradient(to left,rgb(255, 119, 0),rgb(255, 251, 0));
+    width:4cm;
+    height:1cm;
+    border:none;
+    border-radius:5px;
+    color:rgb(0, 0, 0);
+    
+
+}
+.button1:hover{
+    background:linear-gradient(to left,rgb(72, 255, 0),rgb(0, 238, 255));
+    transform:scale(1.1,1.1);
+    font-weight:bold;
+    font-size:17px;
+    color:white;
+    text-shadow:1px 1px 1px black;
+    cursor :pointer;
+}
+
+ 
+  .courses{ 
+    background:linear-gradient(to left,rgb(2, 154, 165),rgb(168, 6, 149));
+    color:white;
+    height:2.5cm;
+    text-align:center;
+    margin-top:-1cm;
+    margin-left:-10px;
+    width:30.134cm;
+    }
+.courses p{
+    margin-left:13cm;
+     position: absolute;
+    font-size:1cm;
+    font-weight:bold;
+    font-family  :Verdana, Geneva, Tahoma, sans-serif;
+
+}
+ 
+ /* Set image width to 5cm */
+ .courses{
+  text-align:center;
+}
+.row-container {
+   
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  vertical-align: top;
+  background:linear-gradient(to left,rgb(201, 176, 251),rgb(177, 251, 186));
+  text-align:center;
+}
+.row-container img {
+  width: 8.5cm;
+  height: auto;
+}
+.all{
+ 
+ margin-left:1cm;
+}
+.button2{
+  width:2.5cm;
+  height:1cm;
+  background:linear-gradient(to left,rgb(0, 238, 255),rgb(255, 1, 225));
+  border:none;
+  font-size:18px;
+  font-weight:bold;
+  border-radius:5px;;
+}
+.row-container1 .application-list {
+ 
+  list-style:square;
+  margin: 0;
+  padding: 0;
+}
+
+.row-container1 .application-list li {
+  text-align:justify;
+ font-size:20px;
+  margin-bottom: 5px;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+.row-container1 h2{
+  margin-top:1cm;
+  text-align:center;
+  font-size:0.8cm;
+}
+.row-container0{
+  font-size:20px;
+ overflow:hidden;
+  margin-left:-5px;
+   padding:20px;
+  display: inline-block;
+  margin-top: 10px;
+  background:linear-gradient(to left,rgb(201, 176, 251),rgb(177, 251, 186));
+  text-align:justify;
+
+}
+.row-container0 h2{
+  text-align: center;
+
+}

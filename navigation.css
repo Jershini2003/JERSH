@@ -1,0 +1,118 @@
+  
+ .blue{
+  position:absolute;
+  left:1.5cm;
+  margin-top:25px;
+  font-size: 30px;
+  font-weight:bold;
+  text-transform:uppercase;
+  letter-spacing:1.5px; 
+  color:rgb(2, 2, 92);
+  text-shadow:3px 2px 2px rgb(187, 139, 5);
+}
+.yellow{
+   color:rgb(208, 154, 6);
+   text-shadow:3px 2px 2px rgb(2, 2, 92);
+}
+body{
+  margin:0;
+  padding:0;
+  }
+
+    nav{
+    width:100%;
+    height:1.8cm;
+    overflow:hidden;
+    border:none;
+    border-bottom: 2px 5px solid rgb(34, 0, 255);
+     background:linear-gradient(to left, rgb(34, 0, 255),rgb(255, 255, 255));
+     background:linear-gradient(to left,rgb(57, 3, 235),rgb(255, 255, 255));
+  }
+  .starlogo{
+    margin-top:5px;
+    left:5px;
+    position:absolute;
+    width:3.5cm;
+    height:1.4cm;
+  }
+  ul{
+    margin:0 0 0 250px;
+    list-style:none;
+  }
+ 
+  li{
+    float:left;
+  }
+   .a1 {
+    margin-top:7px;
+    margin-left:11cm;
+    display:block;
+    padding:20px 7px;
+    text-decoration:none;
+    font-size:18px;
+    text-shadow:1px 1px 1px rgb(52, 52, 33);
+    color:rgb(255, 255, 255);
+   
+}
+.a2 {
+    margin-top:7px;
+    display:block;
+    padding:20px 7px;
+    text-decoration:none;
+    font-size:18px;
+    text-shadow:1px 1px 1px rgb(52, 52, 33);
+    color:rgb(255, 255, 255);
+   
+   
+}
+.a3 {
+    margin-top:7px;
+    display:block;
+    padding:20px 7px;
+    text-decoration:none;
+    font-size:18px;
+    text-shadow:1px 1px 1px rgb(52, 52, 33);
+    color:rgb(255, 255, 255);
+   
+   
+}
+.a4 {
+  margin-top:7px;
+  display:block;
+  padding:20px 7px;
+  text-decoration:none;
+  font-size:18px;
+  text-shadow:1px 1px 1px rgb(52, 52, 33);
+  color:rgb(255, 255, 255);
+   
+ 
+}
+.a5 {
+  margin-top:7px;
+  display:block;
+  padding:20px 7px;
+  text-decoration:none;
+  font-size:18px;
+  text-shadow:1px 1px 1px rgb(52, 52, 33);
+  color:rgb(255, 255, 255);
+   
+ 
+}
+.a6 {
+  margin-top:7px;
+  display:block;
+  padding:20px 7px;
+  text-decoration:none;
+  font-size:18px;
+  text-shadow:1px 1px 1px rgb(52, 52, 33);
+  color:rgb(255, 255, 255);
+   }
+li.active, a:hover{
+  height:10px;
+  border-bottom:2px solid rgb(14, 244, 240);;
+   
+
+}
+ 
+   
+  

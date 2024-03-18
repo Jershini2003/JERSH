@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>ADMIN</title>
+   <link rel="stylesheet" href="AD_add.css">
+</head>
+<body>
+   <div class="welcome">
+       <p>WELCOME TO ADMIN PAGE</P>
+   </div>
+   <div class="colleges">
+   <p>ADD MEDICAL COLLEGES<p>
+   <form action="AD_add_medi.php" method="post" enctype="multipart/form-data">
+    <label for="link_url" class="url">URL:</label>
+    <input type="text" id="link_url" name="link_url" class="link_url" required><br><br>
+  
+    <label for="link_title" class="title"></label>NAME:</label>
+    <input type="text" id="link_title" name="link_title" class="link_title" required><br><br>
+    
+    <label for="link_address" class="address">ADDRESS:</label>
+    <textarea   name="link_address" rows="5" cols="50"  required></textarea><br><br>
+     
+  
+    <label for="link_image" class="image">LOGO:</label>
+    <input type="file" id="link_image" name="link_image" class="link_image" required><br><br>
+  
+    <input class="submit" type="submit" value="ADD">
+  </form>
+     
+</div>
+</body>
+</html>
